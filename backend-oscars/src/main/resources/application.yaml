@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: backend-oscars
+server:
+  port: 8081
+movies:
+  api:
+    base-url: http://service-a:8080/api
